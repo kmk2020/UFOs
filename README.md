@@ -29,10 +29,7 @@ To enable the search filds return results, for loops were creted.
   filtering by multilple filters
   ![image](https://user-images.githubusercontent.com/89704371/173169273-6fff911f-9eec-41cc-a026-02ca35490e68.png)
 </ol>
-![Screenshot 2022-06-10 214240](https://user-images.githubusercontent.com/89704371/173169686-9e333bd9-703f-4625-9e4c-4f3d72930638.png)
-![Screenshot 2022-06-10 214313](https://user-images.githubusercontent.com/89704371/173169790-24759f07-63d2-407f-b449-feb54a1ad040.png)
-
-
+ 
 ## Summary
 ### Drawbacks
 The webpage did not include images for the UFOs sighted which is a major let down to UFO fans.
