@@ -14,7 +14,7 @@ To enable the search filds return results, for loops were creted.
 ### Steps for performing analysis
 <ol>
   <li> Launch web app </li>
-  ![image](https://user-images.githubusercontent.com/89704371/173169043-c305787c-60b5-4c1f-ad44-d607cc04d334.png)
+  
 
   <li> Fill in the search fields </li>
   ![image](https://user-images.githubusercontent.com/89704371/173169072-04be7a4d-fdce-4b05-b82c-f13cb40de912.png)
@@ -27,6 +27,7 @@ To enable the search filds return results, for loops were creted.
   filtering by multilple filters
   ![image](https://user-images.githubusercontent.com/89704371/173169273-6fff911f-9eec-41cc-a026-02ca35490e68.png)
 </ol>
+![Screenshot 2022-06-10 214240](https://user-images.githubusercontent.com/89704371/173169686-9e333bd9-703f-4625-9e4c-4f3d72930638.png)
 
 ## Summary
 ### Drawbacks
